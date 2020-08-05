@@ -1,4 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <br><br>
+  <samp>
+    I'm Manmath Kumar Rana :wave:
+    <br><br>
+    Flutter Developer | Full-stack Web Developer
+    <br><br>
+  </samp>
+</p>
 
 <!--
 **devmanmath/devmanmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
